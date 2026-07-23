@@ -166,13 +166,13 @@ Edit the `topic` variable in `main.py` to research different topics.
     ├── __init__.py
     ├── agents/
     │   ├── __init__.py
-    │   └── agents.py           # Search, Reader, Writer, Critic agents
+    │   └── Agents.py           # Search, Reader, Writer, Critic agents
     ├── tools/
     │   ├── __init__.py
-    │   └── tools.py            # web_search, scrape_url tools
+    │   └── Tools.py            # web_search, scrape_url tools
     └── pipelines/
         ├── __init__.py
-        └── pipeline.py         # Main research orchestration
+        └── pipelines.py         # Main research orchestration
 ```
 
 ---
